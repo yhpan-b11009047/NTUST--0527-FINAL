@@ -4,9 +4,9 @@
 
 ## 基本資料
 
-**學號：** B11xxxxxx  
-**系級：** 資管系大一  
-**姓名：** 王小明  
+**學號：** B1109047
+**系級：** 資管系大四 
+**姓名：** 潘宇航
 
 ---
 
@@ -85,6 +85,7 @@ Prompt C：根據上述分析重構程式
 
 請貼上執行程式並輸入 show 後，顯示資料清單。(請從呼叫執行程式到結束程式完整的把操作對話複製到下框)
 
+```log
 === 圖書管理系統 v0.1 (Legacy) ===
 > add 深入淺出Python/978001/available
 Success
@@ -102,6 +103,7 @@ Updated
 書名: 演算法實作, ISBN: 978003, 狀態: available
 > exit
 系統關閉
+```
 
 ### 3.2 產出的資料檔案格式
 
@@ -136,6 +138,8 @@ Updated
 
 ```log
 # 請在此處貼上 git log 內容
+2a2fda8 (HEAD -> main, origin/main) second commit
+14f8ba0 first commit
 ```
 
 ### 4.2. GitHub Repository 連結(此小題7分)
@@ -143,7 +147,7 @@ Updated
 將專案推送到 GitHub (Public) 若提交到 Private 連結不給分。 請設定 Repository 名稱為 `學號-0527-Final` Ex: B11526748-0527-Final **請用 - 不是 _**
 
 ```log
-# 請貼上你的 Repo 網址
+https://github.com/yhpan-b11009047/B11009047-0527-Final.git
 ```
 
 希望這兩份 Markdown 格式能幫你省下不少排版時間！祝你的考試順利舉行！
